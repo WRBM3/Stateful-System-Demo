@@ -8,7 +8,7 @@ Each run:
 - Exits to simulate server shutdown
 - Is restarted once by the supervisor
 
-## Run Demo:
+## Run Demo
 ```bash
 python demo_supervisor.py
 ```
@@ -22,5 +22,5 @@ Install:
 pip install python-dateutil
 ```
 
-
+## Links
 **RBay Express Project Hub:** https://www.notion.so/Rbay-Express-2c69c197ba5e801ba158e2e102a70968
