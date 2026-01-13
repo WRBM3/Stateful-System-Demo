@@ -11,6 +11,7 @@ Each run:
 ## Run Demo:
 ```bash
 python demo_supervisor.py
+```
 
 ## Requirements
 - Python 3.x (Verified functional on Python 3.9.13)
@@ -19,4 +20,4 @@ python demo_supervisor.py
 Install:
 ```bash
 pip install python-dateutil
-
+```
